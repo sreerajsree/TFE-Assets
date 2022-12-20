@@ -1539,19 +1539,19 @@ h6 .badge {
 
 /* 3.12 Button */
 .btn-facebook{
-    color: #4267B2;
+    color: #4267B2 !important;
 }
 
 .btn-twitter {
-    color: #1DA1F2;
+    color: #1DA1F2 !important;
 }
 
 .btn-github {
-    color: #171515;
+    color: #171515 !important;
 }
 
 .btn-instagram {
-    color: #833AB4;
+    color: #833AB4 !important;
 }
 
 .buttons .btn {
@@ -1933,7 +1933,7 @@ h6 .badge {
 }
 
 .btn-social-icon {
-    color: #fff !important;
+    color: #fff;
     padding-left: 18px;
     padding-right: 18px;
 }
