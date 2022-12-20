@@ -775,10 +775,12 @@ tr:first-child > td > .fc-day-grid-event {
 .profile-widget .profile-widget-picture {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.03);
     float: left;
-    width: 100px;
-    margin: -35px -5px 0 30px;
+    margin: -25px -5px 0 30px;
     position: relative;
     z-index: 1;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
 }
 .profile-widget .profile-widget-header {
     display: inline-block;

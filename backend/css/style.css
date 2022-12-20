@@ -240,7 +240,7 @@ select.form-control:not([size]):not([multiple]),
 }
 
 textarea.form-control {
-    height: 64px !important;
+    height: 100px !important;
 }
 
 .custom-control {
@@ -1538,22 +1538,6 @@ h6 .badge {
 }
 
 /* 3.12 Button */
-.btn-facebook{
-    color: #4267B2 !important;
-}
-
-.btn-twitter {
-    color: #1DA1F2 !important;
-}
-
-.btn-github {
-    color: #171515 !important;
-}
-
-.btn-instagram {
-    color: #833AB4 !important;
-}
-
 .buttons .btn {
     margin: 0 8px 10px 0;
 }
@@ -1934,8 +1918,6 @@ h6 .badge {
 
 .btn-social-icon {
     color: #fff;
-    padding-left: 18px;
-    padding-right: 18px;
 }
 .btn-social-icon > :first-child {
     font-size: 16px;
@@ -2313,6 +2295,8 @@ h6 .badge {
 }
 .navbar .nav-link.nav-link-user img {
     width: 30px;
+    height: 30px;
+    object-fit: cover;
 }
 .navbar .nav-link.nav-link-img {
     padding-top: 4px;
