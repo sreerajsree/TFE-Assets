@@ -3162,6 +3162,10 @@ pre {
 .w-250 {
     width: 250px;
 }
+
+.form-error {
+    color: red;
+}
 /* 4.3 Page */
 .page-error {
     height: 100%;
