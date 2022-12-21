@@ -3895,6 +3895,7 @@ body:not(.sidebar-mini)
         padding-left: 30px;
         padding-right: 30px;
         width: 100% !important;
+        margin-bottom: 10rem;
     }
 
     .main-footer {
