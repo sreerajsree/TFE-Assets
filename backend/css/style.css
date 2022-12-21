@@ -206,6 +206,13 @@ ul:not(.list-unstyled),
 ol {
     line-height: 28px;
 }
+.main-footer {
+    font-size: 10px;
+}
+
+.res-margin {
+    margin-top: 1rem !important;
+}
 
 .shadow {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.03);
@@ -3793,12 +3800,6 @@ body.layout-3 .main-footer {
     bottom: 0;
     z-index: 10;
     background: #fff;
-}
-.main-footer .footer-left {
-    float: left;
-}
-.main-footer .footer-right {
-    float: right;
 }
 
 .simple-footer {
