@@ -2132,7 +2132,7 @@ h6 .badge {
 
 /* 3.18 Navbar */
 .navbar {
-    height: 70px;
+    height: 25px;
     left: 250px;
     right: 5px;
     position: fixed;
@@ -3062,6 +3062,7 @@ pre {
 .section {
     position: relative;
     z-index: 1;
+    margin-bottom: 50px;
 }
 .section > *:first-child {
     margin-top: -7px;
