@@ -46,4 +46,9 @@
     .error-page img {
         display: none;
     }
+
+    .error-page .col-8 {
+        flex: auto !important;
+        width: 100% !important;
+    }
 }
