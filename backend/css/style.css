@@ -1047,13 +1047,16 @@ textarea.form-control {
     display: inline-block;
     width: 100%;
 }
+.height-120 {
+    height: 120px !important;
+}
 .card.card-statistic-1 .card-icon,
 .card.card-statistic-2 .card-icon {
-    width: 75px;
-    height: 75px;
+    width: 50px;
+    height: 50px;
     margin: 10px;
     border-radius: 3px;
-    line-height: 94px;
+    line-height: 55px;
     text-align: center;
     float: left;
     margin-right: 15px;
@@ -1072,7 +1075,7 @@ textarea.form-control {
     color: #fff;
 }
 .card.card-statistic-1 .card-icon {
-    line-height: 80px;
+    line-height: 55px;
 }
 .card.card-statistic-2 .card-icon {
     width: 50px;
@@ -1108,6 +1111,7 @@ textarea.form-control {
 }
 .card.card-statistic-1 .card-body {
     font-size: 20px;
+    text-aligh: end;
 }
 .card.card-statistic-2 .card-chart {
     padding-top: 20px;
