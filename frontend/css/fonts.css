@@ -4,15 +4,8 @@
     src: url("../fonts/Didot.ttf");
 }
 
-@font-face {
-    font-family: "Playfair Display";
-    src: url("../fonts/PlayfairDisplay-SemiBold.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700;800;900&display=swap');
 
-@font-face {
-    font-family: "YesevaOne";
-    src: url("../fonts/YesevaOne-Regular.ttf");
-}
 
 @font-face {
     font-family: "Mont";
@@ -44,8 +37,3 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: "JosefinSans-Regular";
-    src: url("../fonts/JosefinSans-Regular.ttf");
-    font-style: normal;
-}
