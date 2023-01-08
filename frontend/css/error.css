@@ -44,6 +44,11 @@
 }
 @media only screen and (max-width: 480px) {
     .error-page img {
-        max-width: 110px;
+        display: none;
+    }
+
+    .error-page .col-8 {
+        flex: auto !important;
+        width: 100% !important;
     }
 }
