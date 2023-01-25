@@ -1,5 +1,10 @@
 /* CUSTOM FONTS */
 @font-face {
     font-family: "Didot";
-    src: url("../fonts/Didot.ttf");
+    src: url("../fonts/Didot.otf");
 }
+
+@font-face {
+    font-family: 'Canto';
+    src: url("../fonts/Canto.ttf");
+  }
